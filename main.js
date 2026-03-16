@@ -104,7 +104,7 @@ events, <span class="Campaign-cta">wearing red</span>. Be sure to stop and say h
 		pitchThree: "for more details.",
 		hook: "I can pick up any donations as well, please reach out, or you can mail them to:",
 		donationPayto: "Committee to Elect Jacob Deck",
-		donationEmail: "jacobdeck@example.com",
+		donationEmail: "jacob4housing@gmail.com",
 		donationAddress: "91 Dickson Ave, Arlington, MA 02474",
 	},
 
